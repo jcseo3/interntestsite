@@ -9,4 +9,4 @@ This command builds your packer image. Log onto your account in AWS and find the
 
 #Further
 
-To reflect any updates on the repo,go to the terminal, connect to your instance and git pull origin from /home/interntestsite
+To reflect any updates on the repo, go to the terminal, connect to your instance and git pull origin from /home/interntestsite
