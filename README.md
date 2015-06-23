@@ -1,4 +1,4 @@
 # interntestsite
 # Instructions
 
-packer build -var-file=./documents/summer2015internship/packer/keyvariables.json
+packer build -var-file=keyvariables.json test.json
