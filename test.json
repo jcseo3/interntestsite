@@ -24,6 +24,8 @@
         "sudo service nginx start",
         "cd /home",
         "sudo git clone https://github.com/jcseo3/interntestsite",
+        "cd interntestsite",
+        "sudo cp default /etc/nginx/sites-available",
         "sudo nginx -s reload"
       ]
     }
